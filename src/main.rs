@@ -1,3 +1,8 @@
+use crate::day1::{day1_part1, day1_part2};
+
+mod day1;
+
 fn main() {
-    println!("Hello, world!");
+    // day1_part1();
+    day1_part2();
 }
