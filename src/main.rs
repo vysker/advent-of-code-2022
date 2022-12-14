@@ -6,6 +6,7 @@ use crate::day3::{day3_part1, day3_part2};
 use crate::day4::{day4_part1, day4_part2};
 use crate::day5::{day5_part1, day5_part2};
 use crate::day6::{day6_part1, day6_part2};
+use crate::day7::{day7_part1, day7_part2};
 
 mod day1;
 mod day2;
@@ -13,6 +14,7 @@ mod day3;
 mod day4;
 mod day5;
 mod day6;
+mod day7;
 
 fn main() {
     // day1_part1();
@@ -26,5 +28,7 @@ fn main() {
     // day5_part1();
     // day5_part2();
     // day6_part1();
-    day6_part2();
+    // day6_part2();
+    // day7_part1();
+    day7_part2();
 }
